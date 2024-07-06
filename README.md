@@ -31,6 +31,8 @@ This repository contains a data pipeline for an eCommerce platform using Apache 
 Wait for Airflow to start:
 
 Wait for about 1.5 to 2 minutes for Airflow to fully start.
+
+
 4. **Access the Airflow web UI and trigger the DAG**:
 
 Open your browser and go to http://localhost:8080/.
