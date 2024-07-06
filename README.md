@@ -47,4 +47,4 @@ Trigger the DAG:
 
 In the Airflow UI, On the extreme right, you will find the option "actions" Click on the right arrow
 and press the "Trigger DAG" button to start the pipeline. After that, you can watch the pipeline running by clicking on the e-commerce pipeline
-After it shows completed with dark green color, a new folder "processed_data" will be created within your directory with 4 folders namely  good_data, bad_data, combined_data, and reports for the results
+After it shows completed with dark green color, a new folder "processed_data" will be created within your directory with 4 folders namely  "cleaned_data", "bad_data", "combined_data", and "reports" for the results
