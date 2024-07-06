@@ -37,7 +37,7 @@ Wait for about 1.5 to 2 minutes for Airflow to fully start.
 
 Open your browser and go to http://localhost:8080/. 
 
-Log in with the following credentials:\
+Log in with the following credentials:
 
 Username: admin\
 Password: admin 
