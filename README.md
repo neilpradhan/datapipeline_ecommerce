@@ -17,16 +17,17 @@ This repository contains a data pipeline for an eCommerce platform using Apache 
    cd datapipeline_ecommerce
 
 
-Build the Docker image:
+2. **Build the Docker image**:
 
-sh
-Copy code
+```sh
 docker build -t ecommerce-pipeline .
-Start the services using Docker Compose:
 
-sh
-Copy code
+3. **Start the services using Docker Compose**:
+
+```sh
 docker-compose up -d
+
+
 Wait for Airflow to start:
 
 Wait for about 1.5 to 2 minutes for Airflow to fully start.
