@@ -13,7 +13,7 @@ This repository contains a data pipeline for an eCommerce platform using Apache 
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/datapipeline_ecommerce.git
+   git clone https://github.com/neilpradhan/datapipeline_ecommerce.git
    cd datapipeline_ecommerce
 
 
