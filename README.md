@@ -35,10 +35,10 @@ Wait for about 1.5 to 2 minutes for Airflow to fully start.
 
 4. **Access the Airflow web UI and trigger the DAG**:
 
-Open your browser and go to http://localhost:8080/.
-Log in with the following credentials:
-Username: admin
-Password: admin
+Open your browser and go to http://localhost:8080/. \
+Log in with the following credentials:\
+Username: admin \
+Password: admin \
 Trigger the DAG:
 
 In the Airflow UI, find the ecommerce_pipeline DAG.
