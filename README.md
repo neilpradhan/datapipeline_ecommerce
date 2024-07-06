@@ -30,7 +30,7 @@ This repository contains a data pipeline for an eCommerce platform using Apache 
 
 Wait for Airflow to start:
 
-Wait for about 1.5 to 2 minutes for Airflow to fully start.
+Wait for about 1.5 to 2 minutes for Airflow to fully begin.
 
 
 4. **Access the Airflow web UI and trigger the DAG**:
@@ -42,9 +42,9 @@ Log in with the following credentials:
 Username: admin\
 Password: admin 
 
+
 Trigger the DAG:
 
-In the Airflow UI, find the ecommerce_pipeline DAG.
-Click on the DAG and press the "Trigger DAG" button to start the pipeline.
-
-a new folder "processed_data" will be created within your directory with 4 folders namely  good_data, bad_data, combined_data, and reports for the results
+In the Airflow UI, On the extreme right, you will find the option "actions" Click on the right arrow
+and press the "Trigger DAG" button to start the pipeline. After that, you can watch the pipeline running by clicking on the e-commerce pipeline
+After it shows completed with dark green color, a new folder "processed_data" will be created within your directory with 4 folders namely  good_data, bad_data, combined_data, and reports for the results
