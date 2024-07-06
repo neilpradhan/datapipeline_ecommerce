@@ -1,0 +1,4 @@
+
+apache-airflow==2.2.5
+pandas
+SQLAlchemy
